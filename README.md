@@ -1,20 +1,36 @@
 <h1 align="center">Hi 👋 We are <a href="https://github.com/ElianDochev" target="blank">
-Eliyan Dochev</a> and <a href="https://github.com/ElianDochev" target="blank">Vasiliy Novikov!</a> </h1>
+Eliyan Dochev</a> and <a href="https://github.com/VividVice" target="blank">Vasiliy Novikov!</a> </h1>
 <h2 align="center">Get started with React and Gatsby</h3>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Get in touch with us 🤝 </h3>
 
-<p align="center">
+<div style="display: flex;">
+  <h1 align="center"> Eliyan Dochev </h1>
+  <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/elian-dochev-8a53a9250/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ElianDochev">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="mailto:eliyan.dochev@epitech.eu">
-					<img style="width: 40px; height: 40px" src="https://image.similarpng.com/very-thumbnail/2021/09/Outlook-icon-on-transparent-background-PNG.png" ></a>
-      </div>
-</p>
+   <div align="center"  class="icons-social" style="margin-left: 10px;">
+          <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/elian-dochev-8a53a9250/">
+  			<img  style="width: 20px; height: 20px" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+          <a style="margin-left: 10px;" target="_blank" href="https://github.com/ElianDochev">
+  		<img  style="width: 20px; height: 20px" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+  		<a style="margin-left: 5px;" target="_blank" href="mailto:eliyan.dochev@epitech.eu">
+  					<img style="width: 20px; height: 20px" src="https://image.similarpng.com/very-thumbnail/2021/09/Outlook-icon-on-transparent-background-PNG.png" ></a>
+        </div>
+  </p>
+
+  <h1 align="center"> Vasiliy Novikov </h1>
+  <p align="center">
+
+   <div align="center"  class="icons-social" style="margin-left: 10px;">
+          <a style="margin-left: 10px;"  target="_blank" href="#!/">
+  			<img  style="width: 20px; height: 20px" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+          <a style="margin-left: 10px;" target="_blank" href="#!">
+  		<img  style="width: 20px; height: 20px" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+  		<a style="margin-left: 5px;" target="_blank" href="mailto:#!">
+  					<img style="width: 20px; height: 20px" src="https://image.similarpng.com/very-thumbnail/2021/09/Outlook-icon-on-transparent-background-PNG.png" ></a>
+        </div>
+  </p>
+</div>
 
 ## Introduction
 
