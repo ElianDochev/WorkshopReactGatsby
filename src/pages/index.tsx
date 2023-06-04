@@ -1,6 +1,54 @@
 import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
+import { createTheme, ThemeProvider, Container, Typography } from "@mui/material"
 
+
+// color palettes
+const themeOne = createTheme({
+  palette: {
+    primary: {
+      main: "#FF4081",
+      dark: "#c60055",
+      light: "#ff79b0",
+    },
+    secondary: {
+      main: "#00BFA5",
+      dark: "#008e76",
+      light: "#5df2d6",
+    },
+    background: {
+      default: "#F5F5F5"
+    },
+    text: {
+      primary: "#f34221",
+      secondary: "#757575",
+    },
+  },
+})
+
+const themeTwo = createTheme({
+  palette: {
+    primary: {
+      main: "#2962FF",
+      dark: "#0039cb",
+      light: "#768fff",
+    },
+    secondary: {
+      main: "#FFD740",
+      dark: "#c8a600",
+      light: "#ffff6b",
+    },
+    background: {
+      default: "#FFFFFF"
+    },
+    text: {
+      primary: "#333333",
+      secondary: "#757575",
+    },
+  },
+})
+
+/* Below is the original styles from the starter template */
 const pageStyles = {
   color: "#232129",
   padding: 96,
@@ -89,7 +137,7 @@ const badgeStyle = {
   marginLeft: 10,
   lineHeight: 1,
 }
-
+// the info you see on the home page
 const links = [
   {
     text: "Tutorial",
@@ -135,6 +183,8 @@ const links = [
     color: "#663399",
   },
 ]
+/* End of original styles */
+
 
 const IndexPage: React.FC<PageProps> = () => {
   return (
