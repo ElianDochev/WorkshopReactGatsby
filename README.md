@@ -283,22 +283,22 @@ A portfolio is a website that contains information about you, your skills, your 
 
 Here is the section a portfolio should have:
 
-    Home/Introduction: This section introduces yourself, provides a brief overview of your skills and background, and sets the tone for the rest of the portfolio.
+**Home/Introduction**: This section introduces yourself, provides a brief overview of your skills and background, and sets the tone for the rest of the portfolio.
 
-    Projects: Showcase your best projects in this section. Include project titles, descriptions, screenshots, and links to live demos or GitHub repositories. Highlight the technologies used and your role in each project.
+**Projects**: Showcase your best projects in this section. Include project titles, descriptions, screenshots, and links to live demos or GitHub repositories. Highlight the technologies used and your role in each project.
 
-    Skills: List the relevant skills you possess, such as programming languages, frameworks, tools, or methodologies. You can display them using tags or a visual representation like a skill meter.
+**Skills**: List the relevant skills you possess, such as programming languages, frameworks, tools, or methodologies. You can display them using tags or a visual representation like a skill meter.
 
-    Experience: If you have professional experience, include a section that outlines your work history, job titles, and responsibilities. Briefly describe your accomplishments and the technologies you worked with.
+**Experience**: If you have professional experience, include a section that outlines your work history, job titles, and responsibilities. Briefly describe your accomplishments and the technologies you worked with.
 
-    Education: Provide information about your educational background, such as degrees, certifications, or courses you've completed. Mention any academic achievements or relevant coursework.
+**Education**: Provide information about your educational background, such as degrees, certifications, or courses you've completed. Mention any academic achievements or relevant coursework.
 
-    Testimonials: If you have received positive feedback or testimonials from clients, colleagues, or professors, include a section where you can showcase these recommendations. Testimonials add credibility and can help potential employers or clients gauge your skills and work ethic.
+**Testimonials**: If you have received positive feedback or testimonials from clients, colleagues, or professors, include a section where you can showcase these recommendations. Testimonials add credibility and can help potential employers or clients gauge your skills and work ethic.
 
-    Contact: Create a contact section with your email address, phone number, and links to your professional social media profiles (LinkedIn, GitHub, etc.). Add a contact form if you want to receive messages directly through your portfolio.
+**Contact**: Create a contact section with your email address, phone number, and links to your professional social media profiles (LinkedIn, GitHub, etc.). Add a contact form if you want to receive messages directly through your portfolio.
 
-    Blog: If you maintain a blog, include a section where you can showcase your recent blog posts or provide a link to your blog page.
+**Blog**: If you maintain a blog, include a section where you can showcase your recent blog posts or provide a link to your blog page.
 
-    Resume/CV: Optionally, you can include a downloadable PDF version of your resume or CV. This allows visitors to easily access and print your professional information.
+**Resume/CV**: Optionally, you can include a downloadable PDF version of your resume or CV. This allows visitors to easily access and print your professional information.
 
-    Design and Layout: Ensure that the design and layout of your portfolio are visually appealing and user-friendly. Use Material-UI components to create a consistent and responsive design. Pay attention to typography, colors, and overall aesthetics to make a good impression.
+**Design and Layout**: Ensure that the design and layout of your portfolio are visually appealing and user-friendly. Use Material-UI components to create a consistent and responsive design. Pay attention to typography, colors, and overall aesthetics to make a good impression.
